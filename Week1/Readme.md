@@ -8,8 +8,13 @@ Then simulation is runned and the output graph is displayed
 
 
 ````````````````````````````````````````````````````````````**INFERENCE**`````````````````````````````````````````````````````````````````
+
+
 Thus vivado software is installed and the sample file is excecuted. By the tutorial, we have got some idea on the tools in vivado and basic operation carried out i
 in digital VLSI basics
 
+
+
 ````````````````````````````````````````````````````````````**RESULT**``````````````````````````````````````````````````````````````
+
 Thus the vivado software has been installed successfully and target language selected with successful file excecution
