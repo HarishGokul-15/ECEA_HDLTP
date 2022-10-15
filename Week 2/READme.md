@@ -1,4 +1,4 @@
-*********************************************WEEK 2********************************************
+*****WEEK 2*****
 
 **Code**
 The half adder code has been created with verilog language. The half adder created using data flow abstraction
